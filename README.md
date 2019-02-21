@@ -13,7 +13,7 @@
  - Github：https://github.com/hitanxxx
 
  - 期望职位：后台开发，linux开发，C开发岗位
- - 期望薪资：税前月薪9k~11k
+ - 期望薪资：税前月薪10k~12k
  - 期望城市：深圳
 
 
